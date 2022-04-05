@@ -41,3 +41,6 @@ git remote add origin link-repositorio.git
 
 Cómo modificar un repositorio remoto ya existente (de github, gitlab, etc...)
 git remote set-url origin link-repositorio.git
+
+Como subir mi repositorio local a github?
+git push -u origin nombre-rama
